@@ -10,9 +10,9 @@ export default function HomePage() {
       </h2>
       <h2 className="mb-8 text-lg font-serif font-bold">The Revenue of the State is the State. ~ Edmund Burke</h2>
 
-      <h2 className="mb-8 text-lg font-serif font-bold"> "The great object of the Constitution was, to give Congress a power to lay taxes, 
+      <h2 className="mb-8 text-lg font-serif font-bold"> The great object of the Constitution was, to give Congress a power to lay taxes, 
         adequate to the exigencies of government; but they were to observe...the rule of apportionment, according to the census, when they 
-        laid any direct tax." Hylton v. United States, 3 U.S. (3 Dall.) 171, 173 (1796) (opinion of Chase, J.) </h2>
+        laid any direct tax. Hylton v. United States, 3 U.S. (3 Dall.) 171, 173 (1796) (opinion of Chase, J.) </h2>
       
       
 
