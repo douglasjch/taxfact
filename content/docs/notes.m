@@ -22,9 +22,9 @@ Justice Chase likewise thought the constitutional text admitted of no uncertaint
 
 
 <Cards>
-  <Card title="Learn more about Tax History" href="http://localhost:3000/docs/history" />
-  <Card title="Learn more about Tax Facts" href="http://localhost:3000/docs/index" />
-  <Card title="Tax Sources" href="http://localhost:3000/docs/tax-links" />
+  <Card title="Learn more about Tax History" href="http://direct-taxes.link/docs/history" />
+  <Card title="Learn more about Tax Facts" href="http://direct-taxes.link/docs/index" />
+  <Card title="Tax Sources" href="http://direct-taxes.link/docs/tax-links" />
 
 </Cards>
 

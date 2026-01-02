@@ -1,2 +1,4 @@
 # taxing
-Facts and stories about taxation
+Constitutional law concerning USA federal income 
+Platform Nextra
+NextJS 
