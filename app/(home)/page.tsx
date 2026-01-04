@@ -26,7 +26,13 @@ export default function HomePage() {
         >
           /docs
         </Link>{' '}
-        to see the documentation.
+        to see the documentation or
+        <Link
+          href="/docs/tldr"
+          className="text-fd-foreground font-semibold underline"
+        >
+          TL;DR
+        </Link>{' '}
       </p>
       <Image
             src={Pict01}
