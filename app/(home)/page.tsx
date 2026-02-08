@@ -31,7 +31,7 @@ export default function HomePage() {
           href="/docs/tldr"
           className="text-fd-foreground underline ml-1.5"
         >
-          tl;dr
+          tl-dr
         </Link>{' '}
       </p>
       <Image
