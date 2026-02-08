@@ -2,64 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://direct-taxes.link</loc>
-    <lastmod>2025-02-16T15:02:24.021Z</lastmod>
+    <lastmod>2026-02-08T15:02:24.021Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://direct-taxes.link/docs/who</loc>
-    <lastmod>2025-02-16T15:02:24.021Z</lastmod>
+    <lastmod>2026-01-16T15:02:24.021Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://direct-taxes.link/docs/index</loc>
-    <lastmod>2025-02-16T15:02:24.021Z</lastmod>
+    <lastmod>2026-01-16T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://direct-taxes.link/docs/acts</loc>
-    <lastmod>2025-02-16T15:02:24.021Z</lastmod>
+    <loc>https://direct-taxes.link/docs/ab-policy</loc>
+    <lastmod>2026-01-16T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://direct-taxes.link/docs/incidence</loc>
-    <lastmod>2025-04-16T15:02:24.021Z</lastmod>
+    <loc>https://direct-taxes.link/docs/b-policy</loc>
+    <lastmod>2026-01-16T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://direct-taxes.link/docs/noTax</loc>
-    <lastmod>2025-02-16T15:02:24.021Z</lastmod>
+    <lastmod>2026-01-16T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://direct-taxes.link/docs/notes</loc>
-    <lastmod>2025-02-16T15:02:24.021Z</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
+  
   <url>
     <loc>https://direct-taxes.link/docs/pubs</loc>
-    <lastmod>2025-02-16T15:02:24.021Z</lastmod>
+    <lastmod>2026-01-16T15:02:24.021Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://direct-taxes.link/docs/tax-links</loc>
-    <lastmod>2025-02-16T15:02:24.021Z</lastmod>
+    <lastmod>2026-01-16T15:02:24.021Z</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://direct-taxes.link/wars</loc>
-    <lastmod>2025-02-16T15:02:24.021Z</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
   
-
-
 </urlset>
